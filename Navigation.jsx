@@ -15,6 +15,13 @@ const Navigation = () => {
     const toOpenLogin = () => {
         navigate("/login");
     }
+    
+    const toOpenLogin = () => {
+        navigate("/login");
+    }
+    const toOpenLogin = () => {
+        navigate("/login");
+    }
  
   
 
